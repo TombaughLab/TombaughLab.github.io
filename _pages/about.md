@@ -1,9 +1,22 @@
 ---
+layout: single
+title: "TombaughLab"
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 
+TombaughLab es un espacio académico y técnico concebido como un laboratorio personal de trabajo, documentación y desarrollo intelectual, orientado al estudio riguroso de sistemas complejos, estructuras aleatorias y métodos cuantitativos modernos. Este sitio no pretende funcionar como una biografía en sentido tradicional, sino como un punto de convergencia entre investigación, docencia, escritura técnica y exploración formal de herramientas matemáticas aplicadas.
+
+El trabajo que se articula aquí se sitúa en la intersección entre física matemática, ciencia de datos, simulación estocástica y finanzas cuantitativas, con una orientación explícitamente estructural: el interés central no es la descripción superficial de fenómenos, sino la construcción de modelos capaces de capturar regularidades, incertidumbre y dinámica en contextos científicos y financieros. En este sentido, TombaughLab reúne proyectos que van desde el análisis de series temporales y métodos de suavizado, hasta formulaciones probabilísticas profundas asociadas a procesos estocásticos, teoría de la predicción y simulación computacional.
+
+Una parte importante del trasfondo de este trabajo proviene del entorno de la física aplicada, particularmente en áreas vinculadas a materiales, micro–nanotecnología y métodos cuantitativos utilizados en investigación experimental y teórica. La experiencia desarrollada en institutos dedicados al estudio de materiales y en contextos interdisciplinarios como el ICAT ha permitido consolidar una perspectiva donde la matemática no es un lenguaje accesorio, sino el núcleo estructural que organiza la comprensión de sistemas reales: desde señales físicas y datos experimentales hasta dinámicas económicas y series financieras.
+
+En paralelo, TombaughLab refleja un compromiso sostenido con la construcción pedagógica de conocimiento. Aquí se integran notas, desarrollos y material académico elaborado con el objetivo de formar una base sólida en probabilidad, estadística aplicada, procesos estocásticos y herramientas modernas de análisis de datos. La docencia y la escritura técnica aparecen como extensiones naturales de la investigación: no se trata únicamente de aplicar métodos existentes, sino de comprenderlos en profundidad, derivarlos formalmente, discutir sus supuestos y construir implementaciones reproducibles que permitan exploración y verificación.
+
+El sitio también funciona como un repositorio vivo de proyectos en curso relacionados con modelado cuantitativo en finanzas, teoría moderna de portafolios, simulación Monte Carlo, estructuras autorregresivas, modelos de espacio de estados y aproximaciones contemporáneas al pronóstico. En estos temas, el énfasis se mantiene en el rigor: los modelos son tratados como objetos matemáticos bien definidos, con supuestos explícitos, propiedades analíticas y limitaciones claras, evitando interpretaciones meramente heurísticas.
+
+Una línea transversal en muchos de los desarrollos aquí reunidos es la relación entre señal y ruido, estructura y aleatoriedad, estabilidad e incertidumbre. En física, esto aparece en el análisis de mediciones, fluctuaciones y modelos dinámicos; en finanzas, en la comprensión de retornos, riesgos y dependencias temporales; en ciencia de datos, en la construcción de estimadores, algoritmos y metodologías que separen información de variabilidad espuria. TombaughLab se organiza precisamente alrededor de esa tensión fundamental: cómo extraer forma en presencia de azar.
+
+Este espacio está pensado como un laboratorio abierto en evolución. El contenido no es estático ni cerrado: se trata de un proyecto acumulativo donde convergen cursos, textos, simulaciones, código, notas formales y exploraciones teóricas. Algunas secciones reflejan desarrollos avanzados, otras contienen material en construcción, y muchas funcionan como borradores técnicos que eventualmente se integrarán en textos más extensos o en proyectos académicos completos.
+
+En última instancia, TombaughLab representa una forma de trabajo: una aproximación donde la física, la matemática aplicada y las finanzas cuantitativas no son disciplinas separadas, sino dominios que comparten un núcleo común de ideas estructurales. La intención de este sitio es servir como archivo central de esos desarrollos, como plataforma de organización intelectual y como punto de referencia para proyectos futuros, manteniendo siempre un enfoque formal, reproducible y conceptualmente claro.
