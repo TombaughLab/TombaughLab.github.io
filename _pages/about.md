@@ -1,44 +1,18 @@
-### Presentación
+---
+layout: single
+title: "TombaughLab"
+permalink: /
+author_profile: true
+---
 
-TombaughLab es un espacio académico y técnico dedicado al estudio riguroso de sistemas complejos, modelado probabilístico y métodos cuantitativos modernos. El trabajo desarrollado aquí se sitúa en la intersección entre física matemática, análisis de series temporales, procesos estocásticos, simulación y finanzas cuantitativas, con un énfasis constante en formulaciones formales y en implementaciones computacionales reproducibles.
+### Sobre mí
 
-Mi formación se encuentra en la física y las matemáticas aplicadas, y parte de mi actividad académica se ha desarrollado en contextos vinculados a la física de materiales y la micro–nanotecnología, incluyendo trabajo asociado al ICAT y entornos interdisciplinarios de investigación en materiales. Paralelamente, mantengo un enfoque sostenido en problemas donde la incertidumbre, la dinámica y la estructura estadística aparecen como elementos centrales.
+Mi formación se ha desarrollado en dos trayectorias en paralelo, Física y Matemáticas, y esa doble base ha guiado mi trabajo académico y docente. En Física, mis intereses evolucionaron hacia el estudio de materiales, nanomateriales y, finalmente, hacia la espectroscopía como una herramienta central para comprender sistemas complejos. Durante este recorrido trabajé en el Instituto de Materiales en la simulación de nanoestructuras mediante métodos *ab initio*, y más adelante en el Instituto de Ciencias Aplicadas y Tecnología, donde me enfoqué en espectroscopía infrarroja y Raman, así como en el procesamiento de señales mediante métodos estadísticos e inteligencia artificial. En paralelo, mi formación matemática me llevó hacia la estadística y las finanzas cuantitativas, área que complementé con certificaciones especializadas y experiencia práctica en concursos de inversión como el reto Actinver. Además, durante una etapa profesional trabajé como científico de datos, aplicando modelos y herramientas cuantitativas en problemas reales fuera del entorno académico.
+
+### Docencia 
+
+La docencia es una extensión natural de mi trabajo. He impartido cursos en matemáticas financieras, mercados financieros, ciencia de datos y procesos estocásticos, y en esta ocasión planeo continuar con un curso centrado en pronósticos y análisis de series de tiempo. Mi enfoque docente busca siempre unir rigor formal con aplicaciones computacionales reproducibles, de manera que los estudiantes comprendan profundamente antes de tomar decisiones en contextos de incertidumbre.
 
 ---
 
-### Investigación
-
-Mis intereses principales incluyen:
-
-**Análisis de series temporales y pronóstico**  
-Trabajo en métodos clásicos y modernos para el estudio de datos dependientes del tiempo, incluyendo técnicas de suavizado, modelos autorregresivos, formulaciones en espacio de estados y enfoques contemporáneos de predicción.
-
-**Procesos estocásticos y simulación probabilística**  
-Una línea central de mi trabajo se concentra en procesos aleatorios, difusión, simulación Monte Carlo y estructuras probabilísticas utilizadas para modelar sistemas dinámicos bajo incertidumbre.
-
-**Finanzas cuantitativas y teoría de portafolios**  
-Me interesa la estructura matemática de los mercados financieros, la modelación del riesgo, la optimización de carteras y el uso de herramientas estocásticas en problemas de control y valuación.
-
-**Ciencia de datos aplicada y modelado estadístico**  
-Exploro también metodologías de análisis estadístico y aprendizaje cuantitativo en contextos científicos y financieros, con atención especial al rigor matemático, la interpretabilidad y la reproducibilidad.
-
----
-
-### Docencia y material académico
-
-Una parte importante de este proyecto está dedicada a la elaboración de cursos, notas técnicas y material estructurado en probabilidad, estadística aplicada, procesos estocásticos, bases de datos y métodos cuantitativos en finanzas. El objetivo es conectar fundamentos matemáticos profundos con práctica computacional moderna, principalmente mediante Python y R.
-
-Este sitio funciona como repositorio central para proyectos docentes, desarrollos en curso y escritura académica.
-
----
-
-### Escritura y proyectos
-
-Actualmente desarrollo material de largo alcance sobre análisis de series temporales, simulación estocástica y métodos cuantitativos aplicados, integrando teoría formal con ejemplos reproducibles y experimentación computacional. TombaughLab se concibe como un laboratorio vivo en evolución, donde convergen investigación, docencia y construcción técnica.
-
----
-
-### Contacto
-
-Para colaboración académica, proyectos o consultas profesionales, la información de contacto puede proporcionarse directamente bajo solicitud.
 
