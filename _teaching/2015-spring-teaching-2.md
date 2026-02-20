@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 2"
+title: "Curso de Matemáticas Financieras"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Curso de licenciatura"
+permalink: /teaching/2025-primavera-matematicas-financieras
+venue: "Programa independiente"
+date: 2025-02-01
+location: "Ciudad de México"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Este curso de Matemáticas Financieras se impartió entre febrero y abril de 2025 y estuvo orientado a la comprensión formal del valor del dinero en el tiempo y su aplicación en decisiones financieras reales. El programa abordó tasas de interés nominales y efectivas, equivalencia financiera, anualidades, amortización, descuento, evaluación de proyectos y fundamentos de valoración de instrumentos financieros.
