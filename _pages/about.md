@@ -14,9 +14,6 @@ Mi formación se ha desarrollado en dos trayectorias en paralelo, Física y Mate
 ### ¿Tienes curiosidad de saber lo que es el DFT?
 
 <p style="text-align: justify;">
-### ¿Tienes curiosidad de saber lo que es el DFT?
-
-<p style="text-align: justify;">
 La teoría del funcional de la densidad (Density Functional Theory, DFT) surge como una alternativa al tratamiento directo del problema cuántico de muchos electrones. En un sistema formado por \(N\) electrones bajo el potencial de los núcleos, la descripción completa está dada por la ecuación de Schrödinger estacionaria:
 </p>
 $$
@@ -91,7 +88,11 @@ $$
 Y el potencial efectivo incluye el potencial externo, el potencial de Hartree y el término de intercambio-correlación \(V_{\text{xc}}\), que contiene los efectos cuánticos de interacción electrónica. La determinación aproximada de este funcional de intercambio-correlación constituye el principal desafío de la teoría, pero también la razón de su enorme éxito como herramienta computacional para estudiar la estructura electrónica de átomos, moléculas, sólidos y nanoestructuras. De esta manera, DFT permite transformar el complejo problema de muchos cuerpos en un esquema computacionalmente manejable basado en la densidad electrónica como variable fundamental.
 </p>
 
+
+
 ### ¿Te interesa la Espectroscopía?
+
+
 
 <p style="text-align: justify;">
 La espectroscopía constituye una de las herramientas experimentales fundamentales para investigar la estructura y la dinámica de la materia. En términos generales su objetivo es estudiar la interacción entre la radiación electromagnética y los sistemas físicos con el fin de obtener información sobre su composición, estructura molecular, estados electrónicos o dinámicas vibracionales. Desde el punto de vista cuántico esta interacción se describe mediante el Hamiltoniano:
