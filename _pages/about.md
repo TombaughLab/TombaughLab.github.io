@@ -119,19 +119,13 @@ $$
 \nu = \frac{1}{2\pi}\sqrt{\frac{k}{\mu}}
 $$
 <p style="text-align: justify;">
-Donde \(k\) representa la constante de fuerza del enlace y \(\mu\) la masa reducida del sistema vibracional. Estas vibraciones constituyen una especie de huella molecular que permite identificar estructuras químicas y estudiar propiedades estructurales de materiales.
-</p>
-<p style="text-align: justify;">
-La espectroscopía infrarroja se basa en la absorción de radiación cuando un modo vibracional produce un cambio en el momento dipolar de la molécula. Una transición vibracional será activa en el espectro infrarrojo cuando se cumple la condición
+Donde \(k\) representa la constante de fuerza del enlace y \(\mu\) la masa reducida del sistema vibracional. Estas vibraciones constituyen una especie de huella molecular que permite identificar estructuras químicas y estudiar propiedades estructurales de materiales. La espectroscopía infrarroja se basa en la absorción de radiación cuando un modo vibracional produce un cambio en el momento dipolar de la molécula. Una transición vibracional será activa en el espectro infrarrojo cuando se cumple la condición
 </p>
 $$
 \frac{\partial \mu}{\partial Q} \neq 0
 $$
 <p style="text-align: justify;">
-Donde \(Q\) representa la coordenada normal de vibración. Como consecuencia la espectroscopía infrarroja resulta particularmente sensible a enlaces polares y a variaciones en la distribución de carga electrónica dentro de una molécula o un sólido.
-</p>
-<p style="text-align: justify;">
-La espectroscopía Raman se basa en un mecanismo distinto relacionado con la dispersión inelástica de la luz incidente conocida como efecto Raman. Durante este proceso la radiación interactúa con la polarizabilidad electrónica del sistema y produce fotones dispersados cuya frecuencia difiere de la frecuencia incidente. Un modo vibracional será activo en Raman cuando se cumple
+Donde \(Q\) representa la coordenada normal de vibración. Como consecuencia la espectroscopía infrarroja resulta particularmente sensible a enlaces polares y a variaciones en la distribución de carga electrónica dentro de una molécula o un sólido. La espectroscopía Raman se basa en un mecanismo distinto relacionado con la dispersión inelástica de la luz incidente conocida como efecto Raman. Durante este proceso la radiación interactúa con la polarizabilidad electrónica del sistema y produce fotones dispersados cuya frecuencia difiere de la frecuencia incidente. Un modo vibracional será activo en Raman cuando se cumple:
 </p>
 $$
 \frac{\partial \alpha}{\partial Q} \neq 0
