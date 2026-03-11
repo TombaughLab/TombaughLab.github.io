@@ -94,45 +94,13 @@ Y el potencial efectivo incluye el potencial externo, el potencial de Hartree y 
 
 
 
+### Espectroscopía
+
 <p style="text-align: justify;">
-La espectroscopía constituye una de las herramientas experimentales fundamentales para investigar la estructura y la dinámica de la materia. En términos generales su objetivo es estudiar la interacción entre la radiación electromagnética y los sistemas físicos con el fin de obtener información sobre su composición, estructura molecular, estados electrónicos o dinámicas vibracionales. Desde el punto de vista cuántico esta interacción se describe mediante el Hamiltoniano:
+La espectroscopía constituye una de las herramientas experimentales fundamentales para estudiar la estructura y la dinámica de la materia. Su principio general consiste en analizar la interacción entre la radiación electromagnética y un sistema físico con el fin de extraer información sobre su estructura electrónica, vibracional o molecular. Desde el punto de vista cuántico esta interacción puede describirse mediante un Hamiltoniano de la forma \( \hat H = \hat H_0 + \hat H_{\text{int}} \), donde \( \hat H_0 \) representa el sistema en ausencia de radiación y \( \hat H_{\text{int}} \) describe el acoplamiento con el campo electromagnético. En el régimen dipolar eléctrico este término toma la forma \( \hat H_{\text{int}} = - \boldsymbol{\mu} \cdot \mathbf{E}(t) \), siendo \( \boldsymbol{\mu} \) el operador de momento dipolar molecular y \( \mathbf{E}(t) \) el campo eléctrico incidente. La absorción o dispersión de radiación ocurre cuando la energía del campo coincide con la diferencia entre niveles de energía del sistema, lo que se expresa como \( h\nu = E_f - E_i \). En espectroscopía vibracional estos niveles corresponden a modos vibracionales asociados a enlaces químicos cuya frecuencia, en la aproximación armónica, puede escribirse como \( \nu = \frac{1}{2\pi}\sqrt{\frac{k}{\mu}} \), donde \(k\) es la constante de fuerza del enlace y \(\mu\) la masa reducida del sistema vibracional. Estas vibraciones constituyen una especie de huella molecular que permite identificar estructuras químicas y estudiar propiedades estructurales de materiales.
 </p>
-$$
-\hat H = \hat H_0 + \hat H_{\text{int}}
-$$
+
 <p style="text-align: justify;">
-Donde \( \hat H_0 \) describe el sistema en ausencia de radiación y \( \hat H_{\text{int}} \) representa el acoplamiento entre el campo electromagnético y el sistema material. En el régimen dipolar eléctrico este término de interacción puede escribirse como:
+Entre las técnicas más utilizadas se encuentran la espectroscopía infrarroja y la espectroscopía Raman, ambas dedicadas al estudio de vibraciones moleculares pero basadas en mecanismos físicos distintos. La espectroscopía infrarroja se fundamenta en la absorción de radiación cuando una vibración molecular produce un cambio en el momento dipolar, lo cual se expresa mediante la condición \( \frac{\partial \mu}{\partial Q} \neq 0 \), donde \(Q\) representa la coordenada normal de vibración. Por esta razón IR resulta particularmente sensible a enlaces polares y a variaciones en la distribución de carga dentro de una molécula o un sólido. La espectroscopía Raman, en cambio, se basa en la dispersión inelástica de la luz incidente conocida como efecto Raman. En este proceso la radiación interactúa con la polarizabilidad electrónica del sistema y genera fotones dispersados cuya frecuencia difiere de la frecuencia incidente. Una vibración será activa en Raman cuando se cumple \( \frac{\partial \alpha}{\partial Q} \neq 0 \), donde \(\alpha\) representa el tensor de polarizabilidad molecular. Debido a estas diferencias ambas técnicas resultan complementarias, ya que IR detecta vibraciones asociadas a cambios en el momento dipolar mientras que Raman revela aquellas relacionadas con cambios en la polarizabilidad electrónica. La combinación de ambas proporciona una caracterización mucho más completa de moléculas, materiales cristalinos y nanoestructuras.
 </p>
-$$
-\hat H_{\text{int}} = - \boldsymbol{\mu} \cdot \mathbf{E}(t),
-$$
-<p style="text-align: justify;">
-Donde \( \boldsymbol{\mu} \) es el operador de momento dipolar molecular y \( \mathbf{E}(t) \) el campo eléctrico incidente. La absorción o dispersión de radiación ocurre cuando la energía del campo electromagnético coincide con la diferencia entre niveles de energía del sistema. Esta condición puede expresarse como:
-</p>
-$$
-h\nu = E_f - E_i
-$$
-<p style="text-align: justify;">
-En el caso de la espectroscopía vibracional estos niveles corresponden a modos vibracionales asociados a enlaces químicos. Para una aproximación armónica simple las frecuencias vibracionales de una molécula pueden describirse mediante:
-</p>
-$$
-\nu = \frac{1}{2\pi}\sqrt{\frac{k}{\mu}}
-$$
-<p style="text-align: justify;">
-Donde \(k\) representa la constante de fuerza del enlace y \(\mu\) la masa reducida del sistema vibracional. Estas vibraciones constituyen una especie de huella molecular que permite identificar estructuras químicas y estudiar propiedades estructurales de materiales. La espectroscopía infrarroja se basa en la absorción de radiación cuando un modo vibracional produce un cambio en el momento dipolar de la molécula. Una transición vibracional será activa en el espectro infrarrojo cuando se cumple la condición
-</p>
-$$
-\frac{\partial \mu}{\partial Q} \neq 0
-$$
-<p style="text-align: justify;">
-Donde \(Q\) representa la coordenada normal de vibración. Como consecuencia la espectroscopía infrarroja resulta particularmente sensible a enlaces polares y a variaciones en la distribución de carga electrónica dentro de una molécula o un sólido. La espectroscopía Raman se basa en un mecanismo distinto relacionado con la dispersión inelástica de la luz incidente conocida como efecto Raman. Durante este proceso la radiación interactúa con la polarizabilidad electrónica del sistema y produce fotones dispersados cuya frecuencia difiere de la frecuencia incidente. Un modo vibracional será activo en Raman cuando se cumple:
-</p>
-$$
-\frac{\partial \alpha}{\partial Q} \neq 0
-$$
-<p style="text-align: justify;">
-Donde \(\alpha\) representa el tensor de polarizabilidad molecular. Como resultado Raman es especialmente sensible a vibraciones asociadas a cambios en la deformación electrónica de la molécula o del cristal.
-</p>
-<p style="text-align: justify;">
-Debido a estas diferencias en los mecanismos físicos subyacentes las espectroscopías infrarroja y Raman se consideran técnicas complementarias. La espectroscopía infrarroja detecta vibraciones que implican cambios en el momento dipolar mientras que Raman revela aquellas asociadas a cambios en la polarizabilidad electrónica. La combinación de ambas técnicas permite obtener una caracterización mucho más completa de estructuras moleculares, materiales cristalinos y nanoestructuras lo que ha convertido a estas herramientas en métodos fundamentales en ciencia de materiales, química, biología y nanociencia.
-</p>
+
