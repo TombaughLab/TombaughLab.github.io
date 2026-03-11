@@ -14,7 +14,17 @@ Mi formación se ha desarrollado en dos trayectorias en paralelo, Física y Mate
 
 
 ### ¿Tienes curiosidad de saber lo que es el DFT?
+<div style="text-align:center;">
+<iframe width="720" height="405"
+src="https://www.youtube.com/embed/QGyfGCZT110"
+title="Introduction to Density Functional Theory"
+frameborder="0"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+allowfullscreen>
+</iframe>
+</div>
 
+Breve Resumen: 
 <p style="text-align: justify;">
 La teoría del funcional de la densidad (Density Functional Theory, DFT) surge como una alternativa al tratamiento directo del problema cuántico de muchos electrones. En un sistema formado por \(N\) electrones bajo el potencial de los núcleos, la descripción completa está dada por la ecuación de Schrödinger estacionaria:
 </p>
@@ -96,7 +106,15 @@ Y el potencial efectivo incluye el potencial externo, el potencial de Hartree y 
 
 
 
-### Espectroscopía
+<div style="text-align:center;">
+<iframe width="720" height="405"
+src="https://www.youtube.com/embed/QGyfGCZT110"
+title="Introduction to Density Functional Theory"
+frameborder="0"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+allowfullscreen>
+</iframe>
+</div>
 
 <p style="text-align: justify;">
 La espectroscopía constituye una de las herramientas experimentales fundamentales para estudiar la estructura y la dinámica de la materia. Su principio general consiste en analizar la interacción entre la radiación electromagnética y un sistema físico con el fin de extraer información sobre su estructura electrónica, vibracional o molecular. Desde el punto de vista cuántico esta interacción puede describirse mediante un Hamiltoniano de la forma \( \hat H = \hat H_0 + \hat H_{\text{int}} \), donde \( \hat H_0 \) representa el sistema en ausencia de radiación y \( \hat H_{\text{int}} \) describe el acoplamiento con el campo electromagnético. En el régimen dipolar eléctrico este término toma la forma \( \hat H_{\text{int}} = - \boldsymbol{\mu} \cdot \mathbf{E}(t) \), siendo \( \boldsymbol{\mu} \) el operador de momento dipolar molecular y \( \mathbf{E}(t) \) el campo eléctrico incidente. La absorción o dispersión de radiación ocurre cuando la energía del campo coincide con la diferencia entre niveles de energía del sistema, lo que se expresa como \( h\nu = E_f - E_i \). En espectroscopía vibracional estos niveles corresponden a modos vibracionales asociados a enlaces químicos cuya frecuencia, en la aproximación armónica, puede escribirse como \( \nu = \frac{1}{2\pi}\sqrt{\frac{k}{\mu}} \), donde \(k\) es la constante de fuerza del enlace y \(\mu\) la masa reducida del sistema vibracional. Estas vibraciones constituyen una especie de huella molecular que permite identificar estructuras químicas y estudiar propiedades estructurales de materiales.
